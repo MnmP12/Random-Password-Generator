@@ -1,2 +1,2 @@
 # Random Password Generator
- Generates Random Password
+ Generates random passwords at any length!
